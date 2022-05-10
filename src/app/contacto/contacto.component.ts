@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactoComponent implements OnInit {
 
+  public direction: any = 'Avda Sardiñeira 37, 15008';
+  public phone: any = '+34 666 156 406';
+  public gmail: any = 'reydominguezsaulo7@gmail.com';
+
   constructor() { }
 
   ngOnInit(): void {
