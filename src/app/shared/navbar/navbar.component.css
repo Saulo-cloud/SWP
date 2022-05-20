@@ -8,3 +8,11 @@ nav{
 .preHeader{
     width: 100%;
 }
+.parrafoCorreo{
+    font-size: smaller;
+    margin-top: 5px;
+}
+.parrafoTelefono{
+    font-size: smaller;
+    margin-top: 5px;
+}
